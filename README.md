@@ -2,7 +2,7 @@
 BY Laith Abdullah Sultan Qaid
 Graphical Password Authentication for Websites
 
-✔FIRST CASE IF YOU H6AVE REG5ISTRATION AND JUST WANT THE GRAPHICAL PASSWORD.
+✔FIRST CASE IF YOU HAVE REGISTRATION AND JUST WANT THE GRAPHICAL PASSWORD.
 
 First download the source code (js (sign up)📂,js (login)📂 and all other files📁).
 Extract the zip file. 
